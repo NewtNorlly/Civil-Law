@@ -6,12 +6,10 @@
   <br>
 </p>
 
----
-
 <p align="center">
-  <b>🐼 Civil Law @ HUST</b>
+  <i>🐼 Civil Law @ HUST<i>
   <br>
-  <sup>一个关于民法总论的学习档案馆：从罗马市民法，到喻家山下的课堂</sup>
+  <i>一个关于民法总论的学习档案馆：从罗马市民法，到喻家山下的课堂<i>
 </p>
 
 ---
